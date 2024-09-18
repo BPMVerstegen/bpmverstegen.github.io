@@ -14,7 +14,8 @@ Travelling by underground can often be the most efficient means of travelling fo
 The mobile application is free to download. Using the app, travellers will discover many new sites, landmarks, cultural activities and food for instance, whilst even habitants using the app will find something new to do, as there are often temporary events along their routine commute.
 <iframe width="360" height="600" src="https://github.com/user-attachments/assets/71c89f0f-5d48-4e0e-b6ec-ea81188410d7" frameborder="0" allowfullscreen></iframe>
 
-![urbandicoot_render](https://github.com/user-attachments/assets/abffb944-8b6e-4d8f-a686-e12f3ed05545)
+![Urbandicoot](https://github.com/user-attachments/assets/7eaa8c0c-6271-4285-9cda-521e096d4fa8)
+
 
 ##Hardware
 The product hardware consists of a router, enhancing mobile connectivity in the underground. The product would be serviced inside of the metro stations
