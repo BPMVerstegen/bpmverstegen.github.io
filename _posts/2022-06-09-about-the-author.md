@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Bas Verstegen"
-categories: abouttheauthor
+categories: about
 tags: [about]
 image: about-me.png
 ---
