@@ -9,8 +9,8 @@ image: urbandicoot_render2.jpg
 
 Lorem Ipsum
 
-https://github.com/user-attachments/assets/71c89f0f-5d48-4e0e-b6ec-ea81188410d7
+<iframe width="560" height="315" src="https://github.com/user-attachments/assets/71c89f0f-5d48-4e0e-b6ec-ea81188410d7" frameborder="0" allowfullscreen></iframe>
 
-bpmverstegen.github.io/assets/urbandicoot_Prototype_SW
+https://bpmverstegen.github.io/assets/urbandicoot_Prototype_SW
 
 ## [Test](https://www.google.com/)
