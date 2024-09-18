@@ -2,7 +2,7 @@
 layout: post
 title: "The Silent Operating Room"
 author: "Bas Verstegen"
-categories: projects
+categories: research
 tags: [projects,test]
 image: cuba-2.jpg
 ---
