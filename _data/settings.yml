@@ -9,8 +9,8 @@ google-ID: ''
 menu:
 - {name: 'About me',  url: 'about'}
 - {name: 'Projects', url: 'projects'}
+- {name: 'Research',      url: 'research'}
 - {name: 'CV',       url: 'portfolio'}
-- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
