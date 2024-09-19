@@ -23,5 +23,5 @@ Even your daily commute can become exciting again with the temporary events that
 The product hardware consists of a router, enhancing mobile connectivity in the underground. The product is serviced inside of metro stations as well as along the rails.
 
 <video width="640" height="360" autoplay muted loop playsinline preload="metadata">
-  <source src="https://github.com/user-attachments/assets/b0430c5f-3829-4134-a143-2edcf93333df)">
+  <source src="https://github.com/user-attachments/assets/b0430c5f-3829-4134-a143-2edcf93333df">
 </video>
