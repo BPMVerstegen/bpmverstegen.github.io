@@ -4,7 +4,7 @@ title: "Onitsuka Tiger app redesign"
 author: "Bas Verstegen"
 categories: project
 tags: [projects,test]
-image: OT.jpg
+image: OT.gif
 ---
 
 ## Application redesign
