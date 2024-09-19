@@ -4,7 +4,7 @@ title: "Quantum Mechanics, Ambiguity & Design: Towards a Framework"
 author: "Bas Verstegen"
 categories: research
 tags: [research,quantum mechanics]
-image: cuba-2.jpg
+image: QM-ambiguity-design.jpg
 ---
 
 ## Quantum Mechanics, Ambiguity & Design: Towards a Framework
