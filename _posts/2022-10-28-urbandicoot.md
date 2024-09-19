@@ -16,7 +16,7 @@ Even your daily commute can become exciting again with the temporary events that
 
 <iframe width="360" height="600" src="https://github.com/user-attachments/assets/71c89f0f-5d48-4e0e-b6ec-ea81188410d7" frameborder="0" allow="mute" allow="autoplay" allowfullscreen></iframe>
 
-<video autoplay muted loop playsinline preload="metadata">
+<video width="360" height="600" autoplay muted loop playsinline preload="metadata">
   <source src="https://github.com/user-attachments/assets/71c89f0f-5d48-4e0e-b6ec-ea81188410d7">
 </video>
 
@@ -28,5 +28,5 @@ The product hardware consists of a router, enhancing mobile connectivity in the 
   <source src="https://github.com/user-attachments/assets/b0430c5f-3829-4134-a143-2edcf93333df)">
 </video>
 
-<iframe width="640" height="360" src="https://github.com/user-attachments/assets/b0430c5f-3829-4134-a143-2edcf93333df" frameborder="0" allow="autoplay" allow="mute" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://github.com/user-attachments/assets/b0430c5f-3829-4134-a143-2edcf93333df" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 
