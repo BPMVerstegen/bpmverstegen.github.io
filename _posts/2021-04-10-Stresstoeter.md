@@ -4,7 +4,7 @@ title: "Stresstoeter"
 author: "Bas Verstegen"
 categories: projects
 tags: [projects, stress]
-image: stresstoeter.jpg
+image: Stresstoeter.jpg
 ---
 
 ## Accepting stress
