@@ -3,7 +3,7 @@ layout: post
 title: "The Silent Operating Room"
 author: "Bas Verstegen"
 categories: research
-tags: [projects,test]
+tags: [research,sound]
 image: silent-OR.jpg
 ---
 
