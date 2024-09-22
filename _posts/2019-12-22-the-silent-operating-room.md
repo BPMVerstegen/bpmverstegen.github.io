@@ -15,4 +15,4 @@ Our approach isn’t just about reducing noise; it’s about creating a holistic
 
 ## Research Access
 Read the full paper in preview or download in pdf at [ResearchGate](https://www.researchgate.net/publication/384240769_A_Design_Philosophical_Approach_towards_the_Silent_Operating_Room)
-DOI: [10.13140/RG.2.2.36315.37927](https://www.researchgate.net/publication/384240769_A_Design_Philosophical_Approach_towards_the_Silent_Operating_Room?channel=doi&linkId=66f0382897a75a4b483de912&showFulltext=true)
+DOI: [10.13140/RG.2.2.36315.37927]([https://www.researchgate.net/publication/384240769_A_Design_Philosophical_Approach_towards_the_Silent_Operating_Room?channel=doi&linkId=66f0382897a75a4b483de912&showFulltext=true](http://dx.doi.org/10.13140/RG.2.2.36315.37927))
