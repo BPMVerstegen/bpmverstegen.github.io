@@ -9,6 +9,15 @@ Please find below the credits and creators.
 
 ### Creator
 
+#### Bas Verstegen
+* [bpmverstegen.github.io](http://bpmverstegen.github.io)
+
+* [Linkedin](https://www.linkedin.com/in/bas-verstegen)
+
+* [GitHub](https://github.com/BPMVerstegen)
+
+### Millenial Creator
+
 #### Paul Le
 
 * [www.lenpaul.com](http://lenpaul.com)
