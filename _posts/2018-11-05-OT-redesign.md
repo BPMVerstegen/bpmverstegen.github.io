@@ -2,7 +2,7 @@
 layout: post
 title: "OT app redesign"
 author: "Bas Verstegen"
-categories: project
+categories: projects
 tags: [projects,app]
 image: OT.jpg
 ---
